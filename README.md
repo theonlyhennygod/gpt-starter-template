@@ -15,3 +15,4 @@ A modern, feature-rich AI chatbot built with Next.js, TypeScript, and TailwindCS
 
 1. Clone the repository
 2. Install dependencies:
+# gpt-starter-template
